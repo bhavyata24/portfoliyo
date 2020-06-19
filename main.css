@@ -15,7 +15,7 @@ body{
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	background: url('G:/Palu/Certificates/sitebg.jpg') no-repeat center fixed;
+	background: url('G:/bhvyata/sitebg.jpg') no-repeat center fixed;
 	background-size: cover;
 }
 
@@ -707,7 +707,7 @@ li{
 
 @media screen and(max-width: 768px){
 	body{
-	background: url('G:\Palu\Certificates\sitebg2.jpg') no-repeat center fixed;
+	background: url('G:/bhvyata/sitebg2.jpg') no-repeat center fixed;
 	background-size: cover;
 	}	
 
